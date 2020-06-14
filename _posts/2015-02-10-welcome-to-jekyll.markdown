@@ -4,7 +4,7 @@ title:  "hello jekyll!"
 date:   2015-02-10 15:14:54
 categories: jekyll
 tags: jekyll
-excerpt: 当年创建 jekyll 时默认的一篇文章，没什么意义，我也一直没删除，留个纪念吧。
+excerpt: 一个模板
 mathjax: true
 ---
 
@@ -14,9 +14,9 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
-```ruby
+```python3
 def print_hi(name)
-  puts "Hi, #{name}"
+  print("Hi, "+name)
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
